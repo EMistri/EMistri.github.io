@@ -1,0 +1,82 @@
+/*font-family: 'Sniglet', cursive;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Indie Flower', cursive;
+font-family: 'Lobster', cursive;*/
+
+
+body {
+
+    background-image: url(rain.png);
+    background-position: repeat right top;
+    background-size: 10%;
+}
+
+
+/*body{
+        height:100%;
+        }
+    .bg-img {
+        background: url(emo.jpg) repeat center top; 
+        background-size: cover; 
+        height:100%; */    
+    }
+
+/* background-image: url("emo.gif");
+ background-color: #cccccc;
+ background-size: cover;
+ background-position: center;
+*/
+}
+
+
+.centerTable { margin: 0px auto; }
+
+
+
+thead {
+
+	font-family: 'Lobster', cursive; color: blue; 
+}
+
+
+
+img {
+	width: 100%;
+	float: center;
+	margin: 1.66%
+	;
+}
+
+html {
+    width:150%;
+    height:150%;
+
+	
+}
+
+h1 {
+	font-family: 'Lobster', cursive; color: blue; 
+	font-weight: 700;
+	font-size: 5em;
+	text-decoration: underline;
+}
+
+
+h2 {
+	font-family: 'Lobster', cursive; color: blue; 
+}
+
+
+
+h3 {
+	font-family: 'PT Sans', sans-serif; color: black;
+	
+	
+}
+
+
+div {text-align: center
+
+}
+
+
