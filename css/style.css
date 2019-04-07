@@ -24,8 +24,12 @@ h1 {
   font-size: 5rem;
 }
 
-h1, h2, h3 {
+h1, h2 {
   font-family: 'Lobster', sans-serif;
+}
+
+h3 {
+  font-family: 'Indie Flower'
 }
 
 h2 {
@@ -33,7 +37,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.0em;
+  font-size: 1.5em;
 }
 
 header {

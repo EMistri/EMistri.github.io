@@ -1,5 +1,4 @@
 /*font-family: 'Sniglet', cursive;
-font-family: 'PT Sans', sans-serif;
 font-family: 'Indie Flower', cursive;
 font-family: 'Lobster', cursive;*/
 
@@ -29,7 +28,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.0em;
+  font-size: 1.25em;
 }
 
 header {
@@ -76,32 +75,29 @@ li:hover {
  }
 
 
-
 .centerTable { margin: 0px auto; }
 
 
 
 thead {
 
-	font-family: 'Lobster', cursive; color: blue; 
+	font-family: 'Lobster', cursive; color: #414b56; 
 }
-
 
 
 img {
 	width: 100%;
+	display: block;
 	float: center;
 	margin: 1.66%
-	;
 }
-
 
 
 	
 
 
 h1 {
-	font-family: 'Lobster', cursive; color: blue; 
+	font-family: 'Lobster', cursive; color: #414b56; 
 	font-weight: 700;
 	font-size: 5em;
 	text-decoration: underline;
@@ -109,20 +105,21 @@ h1 {
 
 
 h2 {
-	font-family: 'Lobster', cursive; color: blue; 
+	font-family: 'Lobster', cursive; color: #414b56; 
 }
 
 
 
 h3 {
-	font-family: 'PT Sans', sans-serif; color: black;
+	font-family: 'Sniglet', sans-serif; color: black;
 	
 	
 }
 
-
-div {text-align: center
-
+.indie {font-family: 'Indie Flower', sans-serif; color: black;
 }
 
 
+div {text-align: center;
+
+}
