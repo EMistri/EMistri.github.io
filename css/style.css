@@ -9,16 +9,31 @@ section {
   width: 100vw;
 }
 
-h1, h2 {
+h1, h2, h3{
   text-align: center;
+}
+
+.contact {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
 }
 
 h1 {
   font-size: 5rem;
 }
 
+h1, h2, h3 {
+  font-family: 'Nunito', sans-serif;
+}
+
 h2 {
   font-size:2.5em;
+}
+
+h3 {
+  font-size: 1.0em;
 }
 
 header {
@@ -29,4 +44,58 @@ img {
   margin: 0 auto;
   padding: 20px;
   border-radius: 130px;
+}
+
+p {
+  width: 40%;
+  margin: 0 10vw 10vh 10vw;
+  font-size: 2em;
+}
+
+a {
+  color: rgb(0,0,0);
+}
+
+ol {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 10px;
+  font-size: 3em;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+li#lower {
+  margin-top: 7%
+}
+
+#lowest {
+  margin-top:14%
+}
+
+.contrast {
+  background-color: rgb(0,0,0);
+  color: rgb(255,255,255);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+}
+
+li {
+  margin: 0 20px;
+  transition: 0.4s ease;
+}
+footer {
+  margin-top: 20px;
+}
+
+li:hover {
+  font-size: 1.2em;
 }
