@@ -4,29 +4,31 @@ font-family: 'Indie Flower', cursive;
 font-family: 'Lobster', cursive;*/
 
 
-body {
+.backgroundimage {
 
     background-image: url(rain.png);
+   /* opacity: 0.5;*/
     background-position: repeat right top;
     background-size: 10%;
+    background-color: rgba(255,255,255,0.5);
+        background-blend-mode: lighten;
+
+
 }
 
 
-/*body{
-        height:100%;
-        }
-    .bg-img {
-        background: url(emo.jpg) repeat center top; 
-        background-size: cover; 
-        height:100%; */    
-    }
+.numbers { margin: 0px auto; 
 
-/* background-image: url("emo.gif");
- background-color: #cccccc;
- background-size: cover;
- background-position: center;
-*/
+
 }
+ 
+ h1 {
+ 	 text-align: center 
+ }
+
+
+
+
 
 
 .centerTable { margin: 0px auto; }
@@ -47,12 +49,10 @@ img {
 	;
 }
 
-html {
-    width:150%;
-    height:150%;
+
 
 	
-}
+
 
 h1 {
 	font-family: 'Lobster', cursive; color: blue; 
