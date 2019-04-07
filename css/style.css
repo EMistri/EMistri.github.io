@@ -1,6 +1,6 @@
 body {
   color:#414b56;
-  font-family: arial;
+  font-family: Sniglet;
   margin: 0;
 }
 
@@ -25,7 +25,7 @@ h1 {
 }
 
 h1, h2, h3 {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Lobster', sans-serif;
 }
 
 h2 {

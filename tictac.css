@@ -3,6 +3,56 @@ font-family: 'PT Sans', sans-serif;
 font-family: 'Indie Flower', cursive;
 font-family: 'Lobster', cursive;*/
 
+body {
+  color:#414b56;
+  font-family: Sniglet;
+  margin: 0;
+}
+
+
+
+.contact {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+
+
+
+h1, h2, h3 {
+  font-family: 'Lobster', cursive;
+}
+
+h2 {
+  font-size:2.5em;
+}
+
+h3 {
+  font-size: 1.0em;
+}
+
+header {
+  text-align: center;
+}
+
+
+li#lower {
+  margin-top: 7%
+}
+
+#lowest {
+  margin-top:14%
+}
+
+
+
+
+
+li:hover {
+  font-size: 1.2em;
+}
+
 
 .backgroundimage {
 
@@ -12,7 +62,6 @@ font-family: 'Lobster', cursive;*/
     background-size: 10%;
     background-color: rgba(255,255,255,0.5);
         background-blend-mode: lighten;
-
 
 }
 
@@ -25,9 +74,6 @@ font-family: 'Lobster', cursive;*/
  h1 {
  	 text-align: center 
  }
-
-
-
 
 
 
